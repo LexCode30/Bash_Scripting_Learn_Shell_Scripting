@@ -1,0 +1,702 @@
+{
+  "name": "Bash Scripting Learn Shell Scripting",
+  "slug": "Bash_Scripting_Learn_Shell_Scripting",
+  "url": "https://LexCode30.github.io/Bash_Scripting_Learn_Shell_Scripting/",
+  "category": "systems",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Bash Scripting Learn Shell Scripting",
+          "id": "1fzokmR-Iz_yWWEq9xopHgbsBEktAogwa",
+          "anchor": "v-1fzokmR-Iz_yWWEq9xopHgbsBEktAogwa",
+          "href": "s1.html#v-1fzokmR-Iz_yWWEq9xopHgbsBEktAogwa"
+        },
+        {
+          "number": 2,
+          "title": "Course Goals",
+          "id": "1g-en_Im526xHqlXFtxTY7H2maBVONtWU",
+          "anchor": "v-1g-en_Im526xHqlXFtxTY7H2maBVONtWU",
+          "href": "s1.html#v-1g-en_Im526xHqlXFtxTY7H2maBVONtWU"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Section 01 Intro to Bash Shell Scripting",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Bash Aliases",
+          "id": "1hR9v2ry0taOVRfVybyvtdQPEikLhWYSy",
+          "anchor": "v-1hR9v2ry0taOVRfVybyvtdQPEikLhWYSy",
+          "href": "s2.html#v-1hR9v2ry0taOVRfVybyvtdQPEikLhWYSy"
+        },
+        {
+          "number": 2,
+          "title": "Shell and Scripts",
+          "id": "1hVUKz94gLk1jOsl6bkYhRbkFZVoJgSYF",
+          "anchor": "v-1hVUKz94gLk1jOsl6bkYhRbkFZVoJgSYF",
+          "href": "s2.html#v-1hVUKz94gLk1jOsl6bkYhRbkFZVoJgSYF"
+        },
+        {
+          "number": 3,
+          "title": "Creating Your First Script and Changing the PATH",
+          "id": "1hVaSP15V8A-VWnoTE7PkPECgeirrXSMi",
+          "anchor": "v-1hVaSP15V8A-VWnoTE7PkPECgeirrXSMi",
+          "href": "s2.html#v-1hVaSP15V8A-VWnoTE7PkPECgeirrXSMi"
+        },
+        {
+          "number": 4,
+          "title": "The Bash Shebang",
+          "id": "1hbjmQLCmM8Ikt72KiwpppUzr97c7Fvza",
+          "anchor": "v-1hbjmQLCmM8Ikt72KiwpppUzr97c7Fvza",
+          "href": "s2.html#v-1hbjmQLCmM8Ikt72KiwpppUzr97c7Fvza"
+        },
+        {
+          "number": 5,
+          "title": "Comments in Bash",
+          "id": "1htBs3sEedBxErHyYWFOoXjNPcvmU3MQh",
+          "anchor": "v-1htBs3sEedBxErHyYWFOoXjNPcvmU3MQh",
+          "href": "s2.html#v-1htBs3sEedBxErHyYWFOoXjNPcvmU3MQh"
+        },
+        {
+          "number": 6,
+          "title": "Running Scripts",
+          "id": "1hov8PUac1cQf6fNBiPqfcHyEb7BxyJ73",
+          "anchor": "v-1hov8PUac1cQf6fNBiPqfcHyEb7BxyJ73",
+          "href": "s2.html#v-1hov8PUac1cQf6fNBiPqfcHyEb7BxyJ73"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Section 02 Variables",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Variables in Bash",
+          "id": "1iMCNk4Wkuf_d9PdoF7w48jc9VS_bI1hZ",
+          "anchor": "v-1iMCNk4Wkuf_d9PdoF7w48jc9VS_bI1hZ",
+          "href": "s3.html#v-1iMCNk4Wkuf_d9PdoF7w48jc9VS_bI1hZ"
+        },
+        {
+          "number": 2,
+          "title": "Variable Expansion and Quoting",
+          "id": "1i-NpwOjcC8OdARr9MygWyOxtyywKOUE5",
+          "anchor": "v-1i-NpwOjcC8OdARr9MygWyOxtyywKOUE5",
+          "href": "s3.html#v-1i-NpwOjcC8OdARr9MygWyOxtyywKOUE5"
+        },
+        {
+          "number": 3,
+          "title": "Environment and Shell Local Variables",
+          "id": "1i1effFeAzglXLaoAXHws4IuwjIiT1jEK",
+          "anchor": "v-1i1effFeAzglXLaoAXHws4IuwjIiT1jEK",
+          "href": "s3.html#v-1i1effFeAzglXLaoAXHws4IuwjIiT1jEK"
+        },
+        {
+          "number": 4,
+          "title": "Getting User Input",
+          "id": "1i1xBdLG0-8xJ3ZLLFlX6yCnPEL0n3God",
+          "anchor": "v-1i1xBdLG0-8xJ3ZLLFlX6yCnPEL0n3God",
+          "href": "s3.html#v-1i1xBdLG0-8xJ3ZLLFlX6yCnPEL0n3God"
+        },
+        {
+          "number": 5,
+          "title": "Positional Parameters",
+          "id": "1i3eJtNmCRzax56zpb-s_ZVofMV8tx6dM",
+          "anchor": "v-1i3eJtNmCRzax56zpb-s_ZVofMV8tx6dM",
+          "href": "s3.html#v-1i3eJtNmCRzax56zpb-s_ZVofMV8tx6dM"
+        },
+        {
+          "number": 6,
+          "title": "Project How to Protect Yourself from Hackers",
+          "id": "1i6812WIsYU9YoOXGA5Vlo48Gv5lGeMZr",
+          "anchor": "v-1i6812WIsYU9YoOXGA5Vlo48Gv5lGeMZr",
+          "href": "s3.html#v-1i6812WIsYU9YoOXGA5Vlo48Gv5lGeMZr"
+        },
+        {
+          "number": 7,
+          "title": "Special Parameters",
+          "id": "1i6lUHhO0h0RamWTXavhuSr9VKHNPpanc",
+          "anchor": "v-1i6lUHhO0h0RamWTXavhuSr9VKHNPpanc",
+          "href": "s3.html#v-1i6lUHhO0h0RamWTXavhuSr9VKHNPpanc"
+        },
+        {
+          "number": 8,
+          "title": "vs",
+          "id": "1iC3iuujxK0SggqeVe-3rt9cCIVNROFFm",
+          "anchor": "v-1iC3iuujxK0SggqeVe-3rt9cCIVNROFFm",
+          "href": "s3.html#v-1iC3iuujxK0SggqeVe-3rt9cCIVNROFFm"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Section 03 Shell Expansions",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Intro to Expansions",
+          "id": "1iQe3ewpzLiIVQSpfu6F5FnI7tP1iwqye",
+          "anchor": "v-1iQe3ewpzLiIVQSpfu6F5FnI7tP1iwqye",
+          "href": "s4.html#v-1iQe3ewpzLiIVQSpfu6F5FnI7tP1iwqye"
+        },
+        {
+          "number": 2,
+          "title": "Brace Expansion String Lists",
+          "id": "1iPl18Kut8iKgsCOGOB3NxXUEEAxA7jH5",
+          "anchor": "v-1iPl18Kut8iKgsCOGOB3NxXUEEAxA7jH5",
+          "href": "s4.html#v-1iPl18Kut8iKgsCOGOB3NxXUEEAxA7jH5"
+        },
+        {
+          "number": 3,
+          "title": "Brace Expansions Sequence Lists",
+          "id": "1iTbEb5BowIBS2VIPU-3kjnKRYN6HTgis",
+          "anchor": "v-1iTbEb5BowIBS2VIPU-3kjnKRYN6HTgis",
+          "href": "s4.html#v-1iTbEb5BowIBS2VIPU-3kjnKRYN6HTgis"
+        },
+        {
+          "number": 4,
+          "title": "Project Brace Expansion",
+          "id": "1iUzQYEuwchknCHUNZUe34y7LHujAR075",
+          "anchor": "v-1iUzQYEuwchknCHUNZUe34y7LHujAR075",
+          "href": "s4.html#v-1iUzQYEuwchknCHUNZUe34y7LHujAR075"
+        },
+        {
+          "number": 5,
+          "title": "Exercise Imposter Syndrome",
+          "id": "1iaO_INTIYgNv94z6b03EkbzFMAuZBJhM",
+          "anchor": "v-1iaO_INTIYgNv94z6b03EkbzFMAuZBJhM",
+          "href": "s4.html#v-1iaO_INTIYgNv94z6b03EkbzFMAuZBJhM"
+        },
+        {
+          "number": 6,
+          "title": "Tilde Parameter and Variable Expansions",
+          "id": "1iaWqjcfaGpDxwLEETHfwiRgZphHmcHoC",
+          "anchor": "v-1iaWqjcfaGpDxwLEETHfwiRgZphHmcHoC",
+          "href": "s4.html#v-1iaWqjcfaGpDxwLEETHfwiRgZphHmcHoC"
+        },
+        {
+          "number": 7,
+          "title": "Command Substitution",
+          "id": "1imixtZvAx2emeQ164yNBoFbEAbHqkowO",
+          "anchor": "v-1imixtZvAx2emeQ164yNBoFbEAbHqkowO",
+          "href": "s4.html#v-1imixtZvAx2emeQ164yNBoFbEAbHqkowO"
+        },
+        {
+          "number": 8,
+          "title": "Arithmetic Expansion",
+          "id": "1ioMzx6Z-N0vYR5f2R6Lb1aRD3paHrsF3",
+          "anchor": "v-1ioMzx6Z-N0vYR5f2R6Lb1aRD3paHrsF3",
+          "href": "s4.html#v-1ioMzx6Z-N0vYR5f2R6Lb1aRD3paHrsF3"
+        },
+        {
+          "number": 9,
+          "title": "Process Substitution",
+          "id": "1ipoUTv7txQwZkEWV6dwXMHdXRSo2h6Ew",
+          "anchor": "v-1ipoUTv7txQwZkEWV6dwXMHdXRSo2h6Ew",
+          "href": "s4.html#v-1ipoUTv7txQwZkEWV6dwXMHdXRSo2h6Ew"
+        },
+        {
+          "number": 10,
+          "title": "Word Splitting",
+          "id": "1isRwvgVr4aF5-RcRAhRzO4MD4y8c2BRM",
+          "anchor": "v-1isRwvgVr4aF5-RcRAhRzO4MD4y8c2BRM",
+          "href": "s4.html#v-1isRwvgVr4aF5-RcRAhRzO4MD4y8c2BRM"
+        },
+        {
+          "number": 11,
+          "title": "Filename Expansion Globbing",
+          "id": "1j5S7kGIwoxr9hf39y-tSUqp2zblp1wIS",
+          "anchor": "v-1j5S7kGIwoxr9hf39y-tSUqp2zblp1wIS",
+          "href": "s4.html#v-1j5S7kGIwoxr9hf39y-tSUqp2zblp1wIS"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Section 04 Shell Operation in Depth",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Intro to Shell Operation",
+          "id": "1jBVYVmiDnVsC5LZg8jY0LyYKnS8pNAaP",
+          "anchor": "v-1jBVYVmiDnVsC5LZg8jY0LyYKnS8pNAaP",
+          "href": "s5.html#v-1jBVYVmiDnVsC5LZg8jY0LyYKnS8pNAaP"
+        },
+        {
+          "number": 2,
+          "title": "Tokenization",
+          "id": "1j6mlDC07DfCoCjnk0vaxz8iwDBayCQy4",
+          "anchor": "v-1j6mlDC07DfCoCjnk0vaxz8iwDBayCQy4",
+          "href": "s5.html#v-1j6mlDC07DfCoCjnk0vaxz8iwDBayCQy4"
+        },
+        {
+          "number": 3,
+          "title": "Command Identification",
+          "id": "1jGMcco1RZKvoJF08qAfCSZlSKEULo-U2",
+          "anchor": "v-1jGMcco1RZKvoJF08qAfCSZlSKEULo-U2",
+          "href": "s5.html#v-1jGMcco1RZKvoJF08qAfCSZlSKEULo-U2"
+        },
+        {
+          "number": 4,
+          "title": "Shell Expansions",
+          "id": "1j5igV-4aHISu6aYVTQLFUl6DHat7CUIj",
+          "anchor": "v-1j5igV-4aHISu6aYVTQLFUl6DHat7CUIj",
+          "href": "s5.html#v-1j5igV-4aHISu6aYVTQLFUl6DHat7CUIj"
+        },
+        {
+          "number": 5,
+          "title": "Quote Removal",
+          "id": "1jGZbzL3UYLBxRiXKat8KqJH-HRkZsdgw",
+          "anchor": "v-1jGZbzL3UYLBxRiXKat8KqJH-HRkZsdgw",
+          "href": "s5.html#v-1jGZbzL3UYLBxRiXKat8KqJH-HRkZsdgw"
+        },
+        {
+          "number": 6,
+          "title": "Redirections Stdin and Stdout Redirections",
+          "id": "1jREVv54EjNRHU6CUTXg8WAR-viV0KfOG",
+          "anchor": "v-1jREVv54EjNRHU6CUTXg8WAR-viV0KfOG",
+          "href": "s5.html#v-1jREVv54EjNRHU6CUTXg8WAR-viV0KfOG"
+        },
+        {
+          "number": 7,
+          "title": "Stderr Redirection",
+          "id": "1jS_J0Jot3n5f0xZjH8ehx5kRyZ-2dXpw",
+          "anchor": "v-1jS_J0Jot3n5f0xZjH8ehx5kRyZ-2dXpw",
+          "href": "s5.html#v-1jS_J0Jot3n5f0xZjH8ehx5kRyZ-2dXpw"
+        },
+        {
+          "number": 8,
+          "title": "Full Recap Hands-on Example",
+          "id": "1jX7Jh_ysrBEuh0LfiUYuxro5aR4UDJJE",
+          "anchor": "v-1jX7Jh_ysrBEuh0LfiUYuxro5aR4UDJJE",
+          "href": "s5.html#v-1jX7Jh_ysrBEuh0LfiUYuxro5aR4UDJJE"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Section 05 Program Flow in Bash",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "If Elif and Else Statements",
+          "id": "1jcBj1aqeaWl4Gpp99BUwNMYBOQMTienB",
+          "anchor": "v-1jcBj1aqeaWl4Gpp99BUwNMYBOQMTienB",
+          "href": "s6.html#v-1jcBj1aqeaWl4Gpp99BUwNMYBOQMTienB"
+        },
+        {
+          "number": 2,
+          "title": "Arithmetic Comparisons",
+          "id": "1jd7Kfk-Rhq5SjDJoktfyeAlH0Bz0-dyf",
+          "anchor": "v-1jd7Kfk-Rhq5SjDJoktfyeAlH0Bz0-dyf",
+          "href": "s6.html#v-1jd7Kfk-Rhq5SjDJoktfyeAlH0Bz0-dyf"
+        },
+        {
+          "number": 3,
+          "title": "Multiple Condition Tests and Nested ifthen Statements",
+          "id": "1jy4GHVpgovnX0BaySmqZwyrZvMIAP8fj",
+          "anchor": "v-1jy4GHVpgovnX0BaySmqZwyrZvMIAP8fj",
+          "href": "s6.html#v-1jy4GHVpgovnX0BaySmqZwyrZvMIAP8fj"
+        },
+        {
+          "number": 4,
+          "title": "String Comparisons Part 1",
+          "id": "1k4Oda1SG-iCD41jZACDYCZzEana4prB2",
+          "anchor": "v-1k4Oda1SG-iCD41jZACDYCZzEana4prB2",
+          "href": "s6.html#v-1k4Oda1SG-iCD41jZACDYCZzEana4prB2"
+        },
+        {
+          "number": 5,
+          "title": "String Comparisons Part 2",
+          "id": "1k6M1tSJYhEqnhLENJuTygxknKG0xZ6CC",
+          "anchor": "v-1k6M1tSJYhEqnhLENJuTygxknKG0xZ6CC",
+          "href": "s6.html#v-1k6M1tSJYhEqnhLENJuTygxknKG0xZ6CC"
+        },
+        {
+          "number": 6,
+          "title": "Project Testing Network Connections",
+          "id": "1k4lNujTqBLShp8L7AkANVTKjMaYZbjvE",
+          "anchor": "v-1k4lNujTqBLShp8L7AkANVTKjMaYZbjvE",
+          "href": "s6.html#v-1k4lNujTqBLShp8L7AkANVTKjMaYZbjvE"
+        },
+        {
+          "number": 7,
+          "title": "The Case Statement",
+          "id": "1kKKEoIeAfudLDDseterBC02ZoAFIEtGo",
+          "anchor": "v-1kKKEoIeAfudLDDseterBC02ZoAFIEtGo",
+          "href": "s6.html#v-1kKKEoIeAfudLDDseterBC02ZoAFIEtGo"
+        },
+        {
+          "number": 8,
+          "title": "Menus in Bash The Select Statement",
+          "id": "1kYSh7dBqcqfOrwkB9rHhBw42vSEAfpJK",
+          "anchor": "v-1kYSh7dBqcqfOrwkB9rHhBw42vSEAfpJK",
+          "href": "s6.html#v-1kYSh7dBqcqfOrwkB9rHhBw42vSEAfpJK"
+        },
+        {
+          "number": 9,
+          "title": "Project System Administration Script Using Menus",
+          "id": "1k_oREAevG6MsWrsot6RgGfZaLQa5kX6j",
+          "anchor": "v-1k_oREAevG6MsWrsot6RgGfZaLQa5kX6j",
+          "href": "s6.html#v-1k_oREAevG6MsWrsot6RgGfZaLQa5kX6j"
+        },
+        {
+          "number": 10,
+          "title": "List of Commands",
+          "id": "1ke1--6FT2xuusjnmnrf8lAWBAScPjImB",
+          "anchor": "v-1ke1--6FT2xuusjnmnrf8lAWBAScPjImB",
+          "href": "s6.html#v-1ke1--6FT2xuusjnmnrf8lAWBAScPjImB"
+        },
+        {
+          "number": 11,
+          "title": "Running a DOS Attack Without root Access ulimit",
+          "id": "1ki-LoYm2Pr4L97GVNPEJueZ-xoc3OMvE",
+          "anchor": "v-1ki-LoYm2Pr4L97GVNPEJueZ-xoc3OMvE",
+          "href": "s6.html#v-1ki-LoYm2Pr4L97GVNPEJueZ-xoc3OMvE"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Section 06 Loops in Bash",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "For Loops Part 1",
+          "id": "1kkbnkmSQKLvN3Ps9d9TEvn2tEgmrfMlK",
+          "anchor": "v-1kkbnkmSQKLvN3Ps9d9TEvn2tEgmrfMlK",
+          "href": "s7.html#v-1kkbnkmSQKLvN3Ps9d9TEvn2tEgmrfMlK"
+        },
+        {
+          "number": 2,
+          "title": "For Loops Part 2",
+          "id": "1klIJstEbX4P8_1E-V5uT1ZH4_pZflTJ_",
+          "anchor": "v-1klIJstEbX4P8_1E-V5uT1ZH4_pZflTJ_",
+          "href": "s7.html#v-1klIJstEbX4P8_1E-V5uT1ZH4_pZflTJ_"
+        },
+        {
+          "number": 3,
+          "title": "Project Dropping a List of IP Addresses Using a For Loop",
+          "id": "1kiDsOMZX5UeMzOBE9VowLF8Xlrikv1hx",
+          "anchor": "v-1kiDsOMZX5UeMzOBE9VowLF8Xlrikv1hx",
+          "href": "s7.html#v-1kiDsOMZX5UeMzOBE9VowLF8Xlrikv1hx"
+        },
+        {
+          "number": 4,
+          "title": "While Loops Part 1",
+          "id": "1kopaKuQ37t42SZBJ86CLPcmlVrOtqcqF",
+          "anchor": "v-1kopaKuQ37t42SZBJ86CLPcmlVrOtqcqF",
+          "href": "s7.html#v-1kopaKuQ37t42SZBJ86CLPcmlVrOtqcqF"
+        },
+        {
+          "number": 5,
+          "title": "While Loops Part 2",
+          "id": "1kvfcRI1_enlrIWH50unwvwqV0DsWKNC1",
+          "anchor": "v-1kvfcRI1_enlrIWH50unwvwqV0DsWKNC1",
+          "href": "s7.html#v-1kvfcRI1_enlrIWH50unwvwqV0DsWKNC1"
+        },
+        {
+          "number": 6,
+          "title": "Project Dropping a List of IP Addresses Using While and Process Substitution",
+          "id": "1l7diyBmjAfeskga2-ii-RlWw9SDqDA9I",
+          "anchor": "v-1l7diyBmjAfeskga2-ii-RlWw9SDqDA9I",
+          "href": "s7.html#v-1l7diyBmjAfeskga2-ii-RlWw9SDqDA9I"
+        },
+        {
+          "number": 7,
+          "title": "Loops with Break",
+          "id": "1lFtz6SFJMfl2tMyFL-N3Yt8PDvDpeUB0",
+          "anchor": "v-1lFtz6SFJMfl2tMyFL-N3Yt8PDvDpeUB0",
+          "href": "s7.html#v-1lFtz6SFJMfl2tMyFL-N3Yt8PDvDpeUB0"
+        },
+        {
+          "number": 8,
+          "title": "Loops with Continue",
+          "id": "1l2DWYsTn3VA6yj6kiJiFYzaCBFhnQCMA",
+          "anchor": "v-1l2DWYsTn3VA6yj6kiJiFYzaCBFhnQCMA",
+          "href": "s7.html#v-1l2DWYsTn3VA6yj6kiJiFYzaCBFhnQCMA"
+        },
+        {
+          "number": 9,
+          "title": "Intro to Bash Arrays",
+          "id": "1lHSa1JutOnhz5fNx8yagEDuA6pUqZzF6",
+          "anchor": "v-1lHSa1JutOnhz5fNx8yagEDuA6pUqZzF6",
+          "href": "s7.html#v-1lHSa1JutOnhz5fNx8yagEDuA6pUqZzF6"
+        },
+        {
+          "number": 10,
+          "title": "Arrays in Depth",
+          "id": "1lJjGNSuQyZBX9QYtUTUwrK2y_ahTrg12",
+          "anchor": "v-1lJjGNSuQyZBX9QYtUTUwrK2y_ahTrg12",
+          "href": "s7.html#v-1lJjGNSuQyZBX9QYtUTUwrK2y_ahTrg12"
+        },
+        {
+          "number": 11,
+          "title": "Using the Readarray Command",
+          "id": "1lVCR8d4xq5aYzo6bRDKj53UbwXVg9RtA",
+          "anchor": "v-1lVCR8d4xq5aYzo6bRDKj53UbwXVg9RtA",
+          "href": "s7.html#v-1lVCR8d4xq5aYzo6bRDKj53UbwXVg9RtA"
+        },
+        {
+          "number": 12,
+          "title": "Iterating Over Arrays",
+          "id": "1lKSo90vuM3qLb9pxvlhcGfUxwqBErYRq",
+          "anchor": "v-1lKSo90vuM3qLb9pxvlhcGfUxwqBErYRq",
+          "href": "s7.html#v-1lKSo90vuM3qLb9pxvlhcGfUxwqBErYRq"
+        },
+        {
+          "number": 13,
+          "title": "Project Account Creation",
+          "id": "1lbObRIjU6ObQ4aAPseTXU757LRlaffo0",
+          "anchor": "v-1lbObRIjU6ObQ4aAPseTXU757LRlaffo0",
+          "href": "s7.html#v-1lbObRIjU6ObQ4aAPseTXU757LRlaffo0"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Section 07 Functions in Bash",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Intro to Bash Functions",
+          "id": "1m-KWiU6pEUWu8ljrLLww58Q4w39NqTw0",
+          "anchor": "v-1m-KWiU6pEUWu8ljrLLww58Q4w39NqTw0",
+          "href": "s8.html#v-1m-KWiU6pEUWu8ljrLLww58Q4w39NqTw0"
+        },
+        {
+          "number": 2,
+          "title": "Function s Arguments",
+          "id": "1lwxG75MW7IvAerA3GHVJm9IXuraiOB7B",
+          "anchor": "v-1lwxG75MW7IvAerA3GHVJm9IXuraiOB7B",
+          "href": "s8.html#v-1lwxG75MW7IvAerA3GHVJm9IXuraiOB7B"
+        },
+        {
+          "number": 3,
+          "title": "Variable Scopes in Functions",
+          "id": "1m-ofRYwFQqfG0tCkjrT1NY2mjM13lOFB",
+          "anchor": "v-1m-ofRYwFQqfG0tCkjrT1NY2mjM13lOFB",
+          "href": "s8.html#v-1m-ofRYwFQqfG0tCkjrT1NY2mjM13lOFB"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Appendix Linux Installation Guide",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Installing Ubuntu in a VM",
+          "id": "1gZ_Ci_R17-BbluudEzcaXQFNYz8CSXyc",
+          "anchor": "v-1gZ_Ci_R17-BbluudEzcaXQFNYz8CSXyc",
+          "href": "s9.html#v-1gZ_Ci_R17-BbluudEzcaXQFNYz8CSXyc"
+        },
+        {
+          "number": 2,
+          "title": "Things To Do After Installing Ubuntu",
+          "id": "1gZyJXG8RdLPcWUOgi1KZKOduxyaathdD",
+          "anchor": "v-1gZyJXG8RdLPcWUOgi1KZKOduxyaathdD",
+          "href": "s9.html#v-1gZyJXG8RdLPcWUOgi1KZKOduxyaathdD"
+        },
+        {
+          "number": 3,
+          "title": "Running a Linux Server in the Cloud",
+          "id": "1g_G5rP_MyWWK3NSn1S0zvBzAsNYTgnE1",
+          "anchor": "v-1g_G5rP_MyWWK3NSn1S0zvBzAsNYTgnE1",
+          "href": "s9.html#v-1g_G5rP_MyWWK3NSn1S0zvBzAsNYTgnE1"
+        },
+        {
+          "number": 4,
+          "title": "Securing SSH with Key Authentication",
+          "id": "1gaLnZzy07prQLe8w1rP2lTVHZ9__L-Pv",
+          "anchor": "v-1gaLnZzy07prQLe8w1rP2lTVHZ9__L-Pv",
+          "href": "s9.html#v-1gaLnZzy07prQLe8w1rP2lTVHZ9__L-Pv"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Appendix Using the VIM Editor",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "The Basics of VIM Text Editor",
+          "id": "1gbppZgVhkuj44n3WigcpNycdKIpr-x45",
+          "anchor": "v-1gbppZgVhkuj44n3WigcpNycdKIpr-x45",
+          "href": "s10.html#v-1gbppZgVhkuj44n3WigcpNycdKIpr-x45"
+        },
+        {
+          "number": 2,
+          "title": "The VIM Editor In-Depth - Part 1",
+          "id": "1gc5w0KLkhK8BNyvGFPytDbnXpHJUFHbZ",
+          "anchor": "v-1gc5w0KLkhK8BNyvGFPytDbnXpHJUFHbZ",
+          "href": "s10.html#v-1gc5w0KLkhK8BNyvGFPytDbnXpHJUFHbZ"
+        },
+        {
+          "number": 3,
+          "title": "The VIM Editor In-Depth - Part 2",
+          "id": "1gfsKuEkOISeP9J9SKrh0cAF49Kg6fISy",
+          "anchor": "v-1gfsKuEkOISeP9J9SKrh0cAF49Kg6fISy",
+          "href": "s10.html#v-1gfsKuEkOISeP9J9SKrh0cAF49Kg6fISy"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Appendix Cron Anacron and Automation",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Task Automation and Scheduling Using Cron crontab",
+          "id": "1ggN5GRtlvzPNp6v0ZDz0294rcNRURLei",
+          "anchor": "v-1ggN5GRtlvzPNp6v0ZDz0294rcNRURLei",
+          "href": "s11.html#v-1ggN5GRtlvzPNp6v0ZDz0294rcNRURLei"
+        },
+        {
+          "number": 2,
+          "title": "Scheduling Tasks Using Anacron anacron",
+          "id": "1gm2-1NwZsi3jfNLS0TmBG1gzscoxKLH0",
+          "anchor": "v-1gm2-1NwZsi3jfNLS0TmBG1gzscoxKLH0",
+          "href": "s11.html#v-1gm2-1NwZsi3jfNLS0TmBG1gzscoxKLH0"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Appendix Netfilter and Iptables Firewall",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Netfilter and Iptables",
+          "id": "1gF2D9X6De3-bHWiQyGgNeYoAosYb8ZfE",
+          "anchor": "v-1gF2D9X6De3-bHWiQyGgNeYoAosYb8ZfE",
+          "href": "s12.html#v-1gF2D9X6De3-bHWiQyGgNeYoAosYb8ZfE"
+        },
+        {
+          "number": 2,
+          "title": "Chain Traversal in a Nutshell",
+          "id": "1g9Yx-bO3r0t8unO3lA3a6Gmi9av5xeUL",
+          "anchor": "v-1g9Yx-bO3r0t8unO3lA3a6Gmi9av5xeUL",
+          "href": "s12.html#v-1g9Yx-bO3r0t8unO3lA3a6Gmi9av5xeUL"
+        },
+        {
+          "number": 3,
+          "title": "Iptables Basic Usage",
+          "id": "1gL4ybW2KWs6tos861h9khvb-BjdReT5t",
+          "anchor": "v-1gL4ybW2KWs6tos861h9khvb-BjdReT5t",
+          "href": "s12.html#v-1gL4ybW2KWs6tos861h9khvb-BjdReT5t"
+        },
+        {
+          "number": 4,
+          "title": "Iptables Options Flags - Part 1",
+          "id": "1gSjRNEl0-6eHAxSMA0QoGekCTm4CTKsk",
+          "anchor": "v-1gSjRNEl0-6eHAxSMA0QoGekCTm4CTKsk",
+          "href": "s12.html#v-1gSjRNEl0-6eHAxSMA0QoGekCTm4CTKsk"
+        },
+        {
+          "number": 5,
+          "title": "Iptables Options Flags - Part 2",
+          "id": "1gmBqdnzFO8VsUdcL3XBp6yFqSyebOpZu",
+          "anchor": "v-1gmBqdnzFO8VsUdcL3XBp6yFqSyebOpZu",
+          "href": "s12.html#v-1gmBqdnzFO8VsUdcL3XBp6yFqSyebOpZu"
+        },
+        {
+          "number": 6,
+          "title": "Where Do We Write Iptables Rules",
+          "id": "1gn_3weTlCGkgrg_D1q9ZXMjXQQsa5f_q",
+          "anchor": "v-1gn_3weTlCGkgrg_D1q9ZXMjXQQsa5f_q",
+          "href": "s12.html#v-1gn_3weTlCGkgrg_D1q9ZXMjXQQsa5f_q"
+        },
+        {
+          "number": 7,
+          "title": "Setting the Default Policy",
+          "id": "1gnndkwqIAt8Qgo8mH9yh8Yc3IteG1APG",
+          "anchor": "v-1gnndkwqIAt8Qgo8mH9yh8Yc3IteG1APG",
+          "href": "s12.html#v-1gnndkwqIAt8Qgo8mH9yh8Yc3IteG1APG"
+        },
+        {
+          "number": 8,
+          "title": "Deleting the Firewall",
+          "id": "1gi-zUQWPLdx2EvHL6O2B_q_DXJUv1tUH",
+          "anchor": "v-1gi-zUQWPLdx2EvHL6O2B_q_DXJUv1tUH",
+          "href": "s12.html#v-1gi-zUQWPLdx2EvHL6O2B_q_DXJUv1tUH"
+        },
+        {
+          "number": 9,
+          "title": "Filter by IP Address",
+          "id": "1gtG3VME-kSE2ZkZpaJ3uM_9CU3vv3HxP",
+          "anchor": "v-1gtG3VME-kSE2ZkZpaJ3uM_9CU3vv3HxP",
+          "href": "s12.html#v-1gtG3VME-kSE2ZkZpaJ3uM_9CU3vv3HxP"
+        },
+        {
+          "number": 10,
+          "title": "Filter by Port",
+          "id": "1gtY83IblrIHGDPbBdWWqZFf72iWO2fF0",
+          "anchor": "v-1gtY83IblrIHGDPbBdWWqZFf72iWO2fF0",
+          "href": "s12.html#v-1gtY83IblrIHGDPbBdWWqZFf72iWO2fF0"
+        },
+        {
+          "number": 11,
+          "title": "Intro to Stateful Firewalls Connection Tracking",
+          "id": "1guhWaaM7OEt4LEjm5LklgA73AWlXUGeI",
+          "anchor": "v-1guhWaaM7OEt4LEjm5LklgA73AWlXUGeI",
+          "href": "s12.html#v-1guhWaaM7OEt4LEjm5LklgA73AWlXUGeI"
+        },
+        {
+          "number": 12,
+          "title": "Implementing Stateful Firewalls and Iptables",
+          "id": "1h102OMIOuj4hvygep8rB7bG7DS_jjjWE",
+          "anchor": "v-1h102OMIOuj4hvygep8rB7bG7DS_jjjWE",
+          "href": "s12.html#v-1h102OMIOuj4hvygep8rB7bG7DS_jjjWE"
+        },
+        {
+          "number": 13,
+          "title": "Filter by MAC Address",
+          "id": "1h1G7cYTbraWREaKedJGDz6BCBhIMOfYG",
+          "anchor": "v-1h1G7cYTbraWREaKedJGDz6BCBhIMOfYG",
+          "href": "s12.html#v-1h1G7cYTbraWREaKedJGDz6BCBhIMOfYG"
+        },
+        {
+          "number": 14,
+          "title": "Match by Date and Time",
+          "id": "1h9Eh4DC87MPxy18LR1OIB1ImvnajNo5q",
+          "anchor": "v-1h9Eh4DC87MPxy18LR1OIB1ImvnajNo5q",
+          "href": "s12.html#v-1h9Eh4DC87MPxy18LR1OIB1ImvnajNo5q"
+        },
+        {
+          "number": 15,
+          "title": "The ACCEPT and DROP Targets",
+          "id": "1hGb0zB5zgu8URZBK1Iz910qOMK3pR-BA",
+          "anchor": "v-1hGb0zB5zgu8URZBK1Iz910qOMK3pR-BA",
+          "href": "s12.html#v-1hGb0zB5zgu8URZBK1Iz910qOMK3pR-BA"
+        },
+        {
+          "number": 16,
+          "title": "The LOG Target",
+          "id": "1hPfjpEsPVn5QAVUvlCmaoo1DwKeznDtb",
+          "anchor": "v-1hPfjpEsPVn5QAVUvlCmaoo1DwKeznDtb",
+          "href": "s12.html#v-1hPfjpEsPVn5QAVUvlCmaoo1DwKeznDtb"
+        }
+      ]
+    }
+  ]
+}

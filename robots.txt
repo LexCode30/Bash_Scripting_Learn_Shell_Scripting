@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://LexCode30.github.io/Bash_Scripting_Learn_Shell_Scripting/sitemap.xml

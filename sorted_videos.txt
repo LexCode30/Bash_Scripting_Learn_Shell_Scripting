@@ -1,0 +1,112 @@
+# Bash Scripting Learn Shell Scripting
+
+1. Introduction  [s1.html]
+    001. Bash Scripting Learn Shell Scripting  ->  https://drive.google.com/file/d/1fzokmR-Iz_yWWEq9xopHgbsBEktAogwa/preview
+    002. Course Goals  ->  https://drive.google.com/file/d/1g-en_Im526xHqlXFtxTY7H2maBVONtWU/preview
+
+2. Section 01 Intro to Bash Shell Scripting  [s2.html]
+    001. Bash Aliases  ->  https://drive.google.com/file/d/1hR9v2ry0taOVRfVybyvtdQPEikLhWYSy/preview
+    002. Shell and Scripts  ->  https://drive.google.com/file/d/1hVUKz94gLk1jOsl6bkYhRbkFZVoJgSYF/preview
+    003. Creating Your First Script and Changing the PATH  ->  https://drive.google.com/file/d/1hVaSP15V8A-VWnoTE7PkPECgeirrXSMi/preview
+    004. The Bash Shebang  ->  https://drive.google.com/file/d/1hbjmQLCmM8Ikt72KiwpppUzr97c7Fvza/preview
+    005. Comments in Bash  ->  https://drive.google.com/file/d/1htBs3sEedBxErHyYWFOoXjNPcvmU3MQh/preview
+    006. Running Scripts  ->  https://drive.google.com/file/d/1hov8PUac1cQf6fNBiPqfcHyEb7BxyJ73/preview
+
+3. Section 02 Variables  [s3.html]
+    001. Variables in Bash  ->  https://drive.google.com/file/d/1iMCNk4Wkuf_d9PdoF7w48jc9VS_bI1hZ/preview
+    002. Variable Expansion and Quoting  ->  https://drive.google.com/file/d/1i-NpwOjcC8OdARr9MygWyOxtyywKOUE5/preview
+    003. Environment and Shell Local Variables  ->  https://drive.google.com/file/d/1i1effFeAzglXLaoAXHws4IuwjIiT1jEK/preview
+    004. Getting User Input  ->  https://drive.google.com/file/d/1i1xBdLG0-8xJ3ZLLFlX6yCnPEL0n3God/preview
+    005. Positional Parameters  ->  https://drive.google.com/file/d/1i3eJtNmCRzax56zpb-s_ZVofMV8tx6dM/preview
+    006. Project How to Protect Yourself from Hackers  ->  https://drive.google.com/file/d/1i6812WIsYU9YoOXGA5Vlo48Gv5lGeMZr/preview
+    007. Special Parameters  ->  https://drive.google.com/file/d/1i6lUHhO0h0RamWTXavhuSr9VKHNPpanc/preview
+    008. vs  ->  https://drive.google.com/file/d/1iC3iuujxK0SggqeVe-3rt9cCIVNROFFm/preview
+
+4. Section 03 Shell Expansions  [s4.html]
+    001. Intro to Expansions  ->  https://drive.google.com/file/d/1iQe3ewpzLiIVQSpfu6F5FnI7tP1iwqye/preview
+    002. Brace Expansion String Lists  ->  https://drive.google.com/file/d/1iPl18Kut8iKgsCOGOB3NxXUEEAxA7jH5/preview
+    003. Brace Expansions Sequence Lists  ->  https://drive.google.com/file/d/1iTbEb5BowIBS2VIPU-3kjnKRYN6HTgis/preview
+    004. Project Brace Expansion  ->  https://drive.google.com/file/d/1iUzQYEuwchknCHUNZUe34y7LHujAR075/preview
+    005. Exercise Imposter Syndrome  ->  https://drive.google.com/file/d/1iaO_INTIYgNv94z6b03EkbzFMAuZBJhM/preview
+    006. Tilde Parameter and Variable Expansions  ->  https://drive.google.com/file/d/1iaWqjcfaGpDxwLEETHfwiRgZphHmcHoC/preview
+    007. Command Substitution  ->  https://drive.google.com/file/d/1imixtZvAx2emeQ164yNBoFbEAbHqkowO/preview
+    008. Arithmetic Expansion  ->  https://drive.google.com/file/d/1ioMzx6Z-N0vYR5f2R6Lb1aRD3paHrsF3/preview
+    009. Process Substitution  ->  https://drive.google.com/file/d/1ipoUTv7txQwZkEWV6dwXMHdXRSo2h6Ew/preview
+    010. Word Splitting  ->  https://drive.google.com/file/d/1isRwvgVr4aF5-RcRAhRzO4MD4y8c2BRM/preview
+    011. Filename Expansion Globbing  ->  https://drive.google.com/file/d/1j5S7kGIwoxr9hf39y-tSUqp2zblp1wIS/preview
+
+5. Section 04 Shell Operation in Depth  [s5.html]
+    001. Intro to Shell Operation  ->  https://drive.google.com/file/d/1jBVYVmiDnVsC5LZg8jY0LyYKnS8pNAaP/preview
+    002. Tokenization  ->  https://drive.google.com/file/d/1j6mlDC07DfCoCjnk0vaxz8iwDBayCQy4/preview
+    003. Command Identification  ->  https://drive.google.com/file/d/1jGMcco1RZKvoJF08qAfCSZlSKEULo-U2/preview
+    004. Shell Expansions  ->  https://drive.google.com/file/d/1j5igV-4aHISu6aYVTQLFUl6DHat7CUIj/preview
+    005. Quote Removal  ->  https://drive.google.com/file/d/1jGZbzL3UYLBxRiXKat8KqJH-HRkZsdgw/preview
+    006. Redirections Stdin and Stdout Redirections  ->  https://drive.google.com/file/d/1jREVv54EjNRHU6CUTXg8WAR-viV0KfOG/preview
+    007. Stderr Redirection  ->  https://drive.google.com/file/d/1jS_J0Jot3n5f0xZjH8ehx5kRyZ-2dXpw/preview
+    008. Full Recap Hands-on Example  ->  https://drive.google.com/file/d/1jX7Jh_ysrBEuh0LfiUYuxro5aR4UDJJE/preview
+
+6. Section 05 Program Flow in Bash  [s6.html]
+    001. If Elif and Else Statements  ->  https://drive.google.com/file/d/1jcBj1aqeaWl4Gpp99BUwNMYBOQMTienB/preview
+    002. Arithmetic Comparisons  ->  https://drive.google.com/file/d/1jd7Kfk-Rhq5SjDJoktfyeAlH0Bz0-dyf/preview
+    003. Multiple Condition Tests and Nested ifthen Statements  ->  https://drive.google.com/file/d/1jy4GHVpgovnX0BaySmqZwyrZvMIAP8fj/preview
+    004. String Comparisons Part 1  ->  https://drive.google.com/file/d/1k4Oda1SG-iCD41jZACDYCZzEana4prB2/preview
+    005. String Comparisons Part 2  ->  https://drive.google.com/file/d/1k6M1tSJYhEqnhLENJuTygxknKG0xZ6CC/preview
+    006. Project Testing Network Connections  ->  https://drive.google.com/file/d/1k4lNujTqBLShp8L7AkANVTKjMaYZbjvE/preview
+    007. The Case Statement  ->  https://drive.google.com/file/d/1kKKEoIeAfudLDDseterBC02ZoAFIEtGo/preview
+    008. Menus in Bash The Select Statement  ->  https://drive.google.com/file/d/1kYSh7dBqcqfOrwkB9rHhBw42vSEAfpJK/preview
+    009. Project System Administration Script Using Menus  ->  https://drive.google.com/file/d/1k_oREAevG6MsWrsot6RgGfZaLQa5kX6j/preview
+    010. List of Commands  ->  https://drive.google.com/file/d/1ke1--6FT2xuusjnmnrf8lAWBAScPjImB/preview
+    011. Running a DOS Attack Without root Access ulimit  ->  https://drive.google.com/file/d/1ki-LoYm2Pr4L97GVNPEJueZ-xoc3OMvE/preview
+
+7. Section 06 Loops in Bash  [s7.html]
+    001. For Loops Part 1  ->  https://drive.google.com/file/d/1kkbnkmSQKLvN3Ps9d9TEvn2tEgmrfMlK/preview
+    002. For Loops Part 2  ->  https://drive.google.com/file/d/1klIJstEbX4P8_1E-V5uT1ZH4_pZflTJ_/preview
+    003. Project Dropping a List of IP Addresses Using a For Loop  ->  https://drive.google.com/file/d/1kiDsOMZX5UeMzOBE9VowLF8Xlrikv1hx/preview
+    004. While Loops Part 1  ->  https://drive.google.com/file/d/1kopaKuQ37t42SZBJ86CLPcmlVrOtqcqF/preview
+    005. While Loops Part 2  ->  https://drive.google.com/file/d/1kvfcRI1_enlrIWH50unwvwqV0DsWKNC1/preview
+    006. Project Dropping a List of IP Addresses Using While and Process Substitution  ->  https://drive.google.com/file/d/1l7diyBmjAfeskga2-ii-RlWw9SDqDA9I/preview
+    007. Loops with Break  ->  https://drive.google.com/file/d/1lFtz6SFJMfl2tMyFL-N3Yt8PDvDpeUB0/preview
+    008. Loops with Continue  ->  https://drive.google.com/file/d/1l2DWYsTn3VA6yj6kiJiFYzaCBFhnQCMA/preview
+    009. Intro to Bash Arrays  ->  https://drive.google.com/file/d/1lHSa1JutOnhz5fNx8yagEDuA6pUqZzF6/preview
+    010. Arrays in Depth  ->  https://drive.google.com/file/d/1lJjGNSuQyZBX9QYtUTUwrK2y_ahTrg12/preview
+    011. Using the Readarray Command  ->  https://drive.google.com/file/d/1lVCR8d4xq5aYzo6bRDKj53UbwXVg9RtA/preview
+    012. Iterating Over Arrays  ->  https://drive.google.com/file/d/1lKSo90vuM3qLb9pxvlhcGfUxwqBErYRq/preview
+    013. Project Account Creation  ->  https://drive.google.com/file/d/1lbObRIjU6ObQ4aAPseTXU757LRlaffo0/preview
+
+8. Section 07 Functions in Bash  [s8.html]
+    001. Intro to Bash Functions  ->  https://drive.google.com/file/d/1m-KWiU6pEUWu8ljrLLww58Q4w39NqTw0/preview
+    002. Function s Arguments  ->  https://drive.google.com/file/d/1lwxG75MW7IvAerA3GHVJm9IXuraiOB7B/preview
+    003. Variable Scopes in Functions  ->  https://drive.google.com/file/d/1m-ofRYwFQqfG0tCkjrT1NY2mjM13lOFB/preview
+
+9. Appendix Linux Installation Guide  [s9.html]
+    001. Installing Ubuntu in a VM  ->  https://drive.google.com/file/d/1gZ_Ci_R17-BbluudEzcaXQFNYz8CSXyc/preview
+    002. Things To Do After Installing Ubuntu  ->  https://drive.google.com/file/d/1gZyJXG8RdLPcWUOgi1KZKOduxyaathdD/preview
+    003. Running a Linux Server in the Cloud  ->  https://drive.google.com/file/d/1g_G5rP_MyWWK3NSn1S0zvBzAsNYTgnE1/preview
+    004. Securing SSH with Key Authentication  ->  https://drive.google.com/file/d/1gaLnZzy07prQLe8w1rP2lTVHZ9__L-Pv/preview
+
+10. Appendix Using the VIM Editor  [s10.html]
+    001. The Basics of VIM Text Editor  ->  https://drive.google.com/file/d/1gbppZgVhkuj44n3WigcpNycdKIpr-x45/preview
+    002. The VIM Editor In-Depth - Part 1  ->  https://drive.google.com/file/d/1gc5w0KLkhK8BNyvGFPytDbnXpHJUFHbZ/preview
+    003. The VIM Editor In-Depth - Part 2  ->  https://drive.google.com/file/d/1gfsKuEkOISeP9J9SKrh0cAF49Kg6fISy/preview
+
+11. Appendix Cron Anacron and Automation  [s11.html]
+    001. Task Automation and Scheduling Using Cron crontab  ->  https://drive.google.com/file/d/1ggN5GRtlvzPNp6v0ZDz0294rcNRURLei/preview
+    002. Scheduling Tasks Using Anacron anacron  ->  https://drive.google.com/file/d/1gm2-1NwZsi3jfNLS0TmBG1gzscoxKLH0/preview
+
+12. Appendix Netfilter and Iptables Firewall  [s12.html]
+    001. Introduction to Netfilter and Iptables  ->  https://drive.google.com/file/d/1gF2D9X6De3-bHWiQyGgNeYoAosYb8ZfE/preview
+    002. Chain Traversal in a Nutshell  ->  https://drive.google.com/file/d/1g9Yx-bO3r0t8unO3lA3a6Gmi9av5xeUL/preview
+    003. Iptables Basic Usage  ->  https://drive.google.com/file/d/1gL4ybW2KWs6tos861h9khvb-BjdReT5t/preview
+    004. Iptables Options Flags - Part 1  ->  https://drive.google.com/file/d/1gSjRNEl0-6eHAxSMA0QoGekCTm4CTKsk/preview
+    005. Iptables Options Flags - Part 2  ->  https://drive.google.com/file/d/1gmBqdnzFO8VsUdcL3XBp6yFqSyebOpZu/preview
+    006. Where Do We Write Iptables Rules  ->  https://drive.google.com/file/d/1gn_3weTlCGkgrg_D1q9ZXMjXQQsa5f_q/preview
+    007. Setting the Default Policy  ->  https://drive.google.com/file/d/1gnndkwqIAt8Qgo8mH9yh8Yc3IteG1APG/preview
+    008. Deleting the Firewall  ->  https://drive.google.com/file/d/1gi-zUQWPLdx2EvHL6O2B_q_DXJUv1tUH/preview
+    009. Filter by IP Address  ->  https://drive.google.com/file/d/1gtG3VME-kSE2ZkZpaJ3uM_9CU3vv3HxP/preview
+    010. Filter by Port  ->  https://drive.google.com/file/d/1gtY83IblrIHGDPbBdWWqZFf72iWO2fF0/preview
+    011. Intro to Stateful Firewalls Connection Tracking  ->  https://drive.google.com/file/d/1guhWaaM7OEt4LEjm5LklgA73AWlXUGeI/preview
+    012. Implementing Stateful Firewalls and Iptables  ->  https://drive.google.com/file/d/1h102OMIOuj4hvygep8rB7bG7DS_jjjWE/preview
+    013. Filter by MAC Address  ->  https://drive.google.com/file/d/1h1G7cYTbraWREaKedJGDz6BCBhIMOfYG/preview
+    014. Match by Date and Time  ->  https://drive.google.com/file/d/1h9Eh4DC87MPxy18LR1OIB1ImvnajNo5q/preview
+    015. The ACCEPT and DROP Targets  ->  https://drive.google.com/file/d/1hGb0zB5zgu8URZBK1Iz910qOMK3pR-BA/preview
+    016. The LOG Target  ->  https://drive.google.com/file/d/1hPfjpEsPVn5QAVUvlCmaoo1DwKeznDtb/preview
